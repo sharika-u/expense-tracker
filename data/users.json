@@ -1,0 +1,14 @@
+{
+  "ca794fb2": {
+    "username": "sha",
+    "password": "pbkdf2:sha256:260000$GyVhkbkivJldznVG$9060e8ddeaddc8acd406e694917dfd5dec9a140467cda2f3b243b1a85f083208"
+  },
+  "098f6bcd": {
+    "username": "test",
+    "password": "pbkdf2:sha256:260000$7DvGVGgB5yqOdtaO$5289a176f807bd60c826c435d8a0813a2546fc21364990ff0f05aec341ed880f"
+  },
+  "ad023482": {
+    "username": "test2",
+    "password": "1234"
+  }
+}

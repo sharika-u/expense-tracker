@@ -1,0 +1,38 @@
+[
+  {
+    "amount": 2000,
+    "date": "2026-02-04",
+    "category": "Rent",
+    "id": 0
+  },
+  {
+    "amount": 7600,
+    "date": "2026-02-04",
+    "category": "Shopping",
+    "id": 1
+  },
+  {
+    "amount": 500,
+    "date": "2026-02-04",
+    "category": "Food",
+    "id": 2
+  },
+  {
+    "amount": 567,
+    "date": "2026-02-04",
+    "category": "Bills",
+    "id": 3
+  },
+  {
+    "amount": 500,
+    "date": "2026-02-02",
+    "category": "Food",
+    "id": 4
+  },
+  {
+    "amount": 55000,
+    "date": "2026-02-04",
+    "category": "Travel",
+    "id": 5
+  }
+]
